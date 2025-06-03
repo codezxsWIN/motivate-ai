@@ -122,13 +122,13 @@ Marie Forleo
 
 ...and more coming!
 
-## License
-
 
 
 ## My Twitter: 
 https://x.com/codezxs
 ![image](https://github.com/user-attachments/assets/f04db95a-6b21-4c59-ad1f-72de11067d19)
+
+## License
 
 MIT License. Use it. Remix it. Spread the motivation.
 
