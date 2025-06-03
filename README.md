@@ -78,6 +78,10 @@ Sends back the final output:
 ```
 ![image](https://github.com/user-attachments/assets/4c3999bc-a290-4073-8166-0b44e7f843fb)
 
+## Video: 
+https://drive.google.com/file/d/1e18n_Dxlqx5hqEXvXz_1-r0mx-v78Sor/view?usp=sharing
+
+
 ## 🛠 Example Prompt
 ```
 Input:
